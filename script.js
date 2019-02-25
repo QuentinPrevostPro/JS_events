@@ -92,7 +92,7 @@ for (let i = 0; i < cardEl.length; i++) {
 };
 
 // Fonctionnalité 7
-
+let buttonRightEl = document.querySelector("a.btn-secondary");
 
 // Fonctionnalité 8
 // Fonctionnalité 9
